@@ -52,9 +52,8 @@ Passionate about programming, problem-solving, and learning Data Structures & Al
 
 ### 🌐 Connect with Me
 
-- **GitHub:** [hamid-fastian](https://github.com/hamid-fastian)
-- **LinkedIn:** [Malik Hamid Raza](https://www.linkedin.com/in/malik-hamid-raza-9338693/)
-
+- **GitHub:** https://github.com/hamid-fastian
+- **LinkedIn:** https://www.linkedin.com/in/malik-hamid-raza-9338693/
 ---
 
 ⭐ This repository represents my ongoing journey of learning, practicing, and improving my problem-solving skills.
