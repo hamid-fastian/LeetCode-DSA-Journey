@@ -10,13 +10,12 @@ int SingleNumber(vector<int>& num)
 	{
 		single ^= val;
 	}
-
 	return single;
 }
 
 int main()
 {
-	vector<int> num = { 3,1,1,4,2,2,3 };
+	vector<int> num = {6, 4, 9, 6, 4, 9, 7};
 	cout << "Single Value:" << SingleNumber(num) << endl;
 	system("pause");
 	return 0;
