@@ -10,6 +10,7 @@ int SingleNumber(vector<int>& num)
 	{
 		single ^= val;
 	}
+
 	return single;
 }
 
