@@ -32,6 +32,7 @@ A collection of my LeetCode solutions and Data Structures & Algorithms practice 
 | 26                   | Remove Duplicates from Sorted Array | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Remove_Duplicates_from_Sorted_Array.cpp) |
 | 27                   | Remove Element                      | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Remove_Element.cpp)                      |
 | 35                   | Search Insert Position              | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Search_Insert_Position.cpp)              |
+| 136                  | Single Number                       | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Single_Number.cpp)                       |
 
 ## 💻 Language
 
