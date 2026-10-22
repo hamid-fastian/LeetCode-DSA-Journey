@@ -37,10 +37,10 @@ A collection of my LeetCode solutions and Data Structures & Algorithms practice 
 
 ### Linked List
 
-| **#** | **Problem**                 | **Solution** |
-| ----- | --------------------------- | ------------ |
-| 21    | Merge Two Sorted Lists      | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked%20List/Merge_two_sorted_list.cpp) |
-| 83    | Remove Duplicates from Sorted List | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked%20List/Remove_Duplicates_from_sorted_list.cpp) |
+| **#** | **Problem** | **Solution** |
+| ----- | ----------- | ------------ |
+| 21 | Merge Two Sorted Lists | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked_List/Merge_two_sorted_list.cpp) |
+| 83 | Remove Duplicates from Sorted List | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked_List/Remove_Duplicates_from_sorted_list.cpp) |
 ## 💻 Language
 
 * C++
