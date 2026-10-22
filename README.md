@@ -35,6 +35,12 @@ A collection of my LeetCode solutions and Data Structures & Algorithms practice 
 | 66                   | Plus One                            | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Plus_One.cpp)                            |
 | 136                  | Single Number                       | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Arrays/Single_Number.cpp)                       |
 
+### Linked List
+
+| **#** | **Problem**                 | **Solution** |
+| ----- | --------------------------- | ------------ |
+| 21    | Merge Two Sorted Lists      | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked%20List/Merge_two_sorted_list.cpp) |
+| 83    | Remove Duplicates from Sorted List | [View Code](https://github.com/hamid-fastian/LeetCode-DSA-Journey/blob/main/Linked%20List/Remove_Duplicates_from_sorted_list.cpp) |
 ## 💻 Language
 
 * C++
